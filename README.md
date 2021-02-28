@@ -1,3 +1,7 @@
 # Halliburton-Landmark-Learning
 
-This repository consists of various Machine Learning Data Engineering concepts implementation on Oil and Gas datasets. 
+1. Data Cleaning
+2. Data Transformation
+3. Data Analysis
+4. Data Visualization
+5. Time Series Manipulation 
