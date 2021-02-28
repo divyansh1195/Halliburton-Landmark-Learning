@@ -1,7 +1,3 @@
-# Halliburton-Landmark-Learning
+# Machine Learning with Python: Halliburton-Landmark-Learning
 
-1. Data Cleaning
-2. Data Transformation
-3. Data Analysis
-4. Data Visualization
-5. Time Series Manipulation 
+Data Transformation(Merge, Join, Data Cleaning, Reshaping), Data Visualization (Matplotlib and Seaborn), and Time Series Manipulation. 
